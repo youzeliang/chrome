@@ -724,4 +724,3 @@ https://manishrjain.com/must-close-golang-http-response
 https://www.mpweekly.com/
 https://www.qimingzhijia.com/
 https://www.csdn.net/
-https://proxy.golang.org/
