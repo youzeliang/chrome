@@ -743,3 +743,6 @@ https://danp.net/posts/macos-dns-change-in-go-1-20/
 https://puzpuzpuz.dev/thread-local-state-in-go-huh
 https://devnonsense.com/posts/incremental-parsing-in-go/
 https://betterprogramming.pub/profiling-in-go-78cf71f81a07
+https://blog.devgenius.io/achieving-efficiency-with-singleflight-in-go-4daf668e48d
+https://www.jdon.com/61587.html
+https://zendesk.engineering/debugging-containerd-a20f28a2a8bf
