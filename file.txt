@@ -746,3 +746,5 @@ https://betterprogramming.pub/profiling-in-go-78cf71f81a07
 https://blog.devgenius.io/achieving-efficiency-with-singleflight-in-go-4daf668e48d
 https://www.jdon.com/61587.html
 https://zendesk.engineering/debugging-containerd-a20f28a2a8bf
+https://threedots.tech/post/increasing-cohesion-in-go-with-generic-decorators/
+https://my.oschina.net/barat/blog/5524746
