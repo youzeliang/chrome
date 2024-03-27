@@ -767,3 +767,13 @@ https://taigacute.github.io/2019/07/12/Go%E7%9A%84Sync%E5%8C%85/
 https://www.alexedwards.net/blog/ci-with-go-and-github-actions
 https://full-stack.blend.com/how-we-write-github-actions-in-go.html
 https://github.com/auula/vasedb
+https://mdlayher.com/blog/unsafe-string-interning-in-go/
+https://mp.weixin.qq.com/s/rMygbfaLAF5NF206uEUJKA
+https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
+https://netflixtechblog.com/netflix-edge-load-balancing-695308b5548c
+https://docs.google.com/presentation/d/e/2PACX-1vTTFQjMSxai7TvhBJgkJf4K3RrT3tJrP7KUQ3rZB8e4UL7grCnxQh7o4yYYvyYugnkcfVwvTrwA23B0/pub?pli=1&slide=id.g4a0d0719ed_0_19
+https://dev.to/gopher/go-all-design-patterns-code-with-workflow-ea1
+https://segmentfault.com/a/1190000016086653
+https://oswanderson.medium.com/generating-and-reading-go-golang-profiles-part-1-db33905decee
+https://medium.com/learning-the-go-programming-language/working-with-compressed-tar-files-in-go-e6fe9ce4f51d
+https://github.com/syncthing/syncthing
