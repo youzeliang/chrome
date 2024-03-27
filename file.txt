@@ -760,3 +760,10 @@ https://www.debugged.it/blog/go-patterns-retries
 https://entgo.io/blog/2021/10/14/introducing-entcache/
 https://my.oschina.net/lwl1989/blog/5276867
 https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html
+https://logz.io/blog/go-instrumentation-distributed-tracing-jaeger/
+https://changelog.com/gotime/255
+https://jimmyutterstrom.com/blog/2019/08/27/tinygo-adafruit-feather-getting-started/
+https://taigacute.github.io/2019/07/12/Go%E7%9A%84Sync%E5%8C%85/
+https://www.alexedwards.net/blog/ci-with-go-and-github-actions
+https://full-stack.blend.com/how-we-write-github-actions-in-go.html
+https://github.com/auula/vasedb
