@@ -777,3 +777,13 @@ https://segmentfault.com/a/1190000016086653
 https://oswanderson.medium.com/generating-and-reading-go-golang-profiles-part-1-db33905decee
 https://medium.com/learning-the-go-programming-language/working-with-compressed-tar-files-in-go-e6fe9ce4f51d
 https://github.com/syncthing/syncthing
+https://towardsdatascience.com/grpc-in-golang-bb40396eb8b1
+https://mbd.baidu.com/newspage/data/error?id=1752172076029350343&third=baijiahao&baijiahao_id=1752172076029350343&wfr=
+https://mp.weixin.qq.com/s/xWP28BIto-UI8GwwN4_WCg
+https://github.com/i-love-flamingo/dingo
+https://github.com/dimes/dihedral
+https://medium.com/@rakateja/dependency-injection-in-go-c5ed91552bc6
+https://mp.weixin.qq.com/s/AEsNXL27xUbDvNo_L2WxAQ
+https://mp.weixin.qq.com/s?__biz=Mzg5NDYxNTYyMw==&mid=2247487587&idx=1&sn=1e72ba7cb4113ac26c726696e73c21f7&source=41#wechat_redirect
+https://mp.weixin.qq.com/s/3HsqtHwWReX1S3ggP2_owg
+https://www.51cto.com/article/594190.html
