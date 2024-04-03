@@ -751,3 +751,26 @@ https://blog.51cto.com/alex/6164782
 https://github.com/EDDYCJY/blog/blob/master/tools/godebug-sched.md
 https://mp.weixin.qq.com/s/DxycOYH3pNpJFYdf6ESbhA
 >>>>>>> 37cc9975b219556945e93025323f4097ca875c40
+https://mu.xyz/blog/2019/12/05/building-a-microservices-network.html
+https://hackernoon.com/go-is-on-a-trajectory-to-become-the-next-enterprise-programming-language-3b75d70544e
+https://blog.lpflpf.cn/passages/time-limiter
+https://levelup.gitconnected.com/go-make-or-new-bc19f5a57bf9
+https://blog.lpflpf.cn/passages/circuit-breaker/
+https://www.aaronraff.dev/blog/an-introduction-to-producing-and-consuming-kafka-messages-in-go
+https://my.oschina.net/u/4746469/blog/4784665#a
+https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
+https://benhoyt.com/writings/go-routing/
+https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/
+https://ckarchive.com/b/75u7h8h730p5
+https://proto.actor/docs/clusterintro/
+https://dtyler.io/articles/2021/04/13/sync_cond/
+https://toutiao.io/posts/7m7u4g/preview
+https://levelup.gitconnected.com/practical-ddd-in-golang-domain-event-de02ad492989
+https://preslav.me/2021/09/04/generic-golang-pipelines/
+https://blog.51cto.com/u_15103030/2648898
+https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/
+https://vladimir.varank.in/notes/2021/03/little-things-of-go-http-handlers/
+https://medium.com/@leoneperdigao/why-it-is-worth-learning-golang-3a686e4448cf%20%20%20%20--%20%CE%A9%CB%86%CF%80%C2%A9%E2%80%98%C6%92%E2%88%82%C2%A1
+https://www.cnblogs.com/zhaof/p/13223912.html
+https://sspai.com/post/86747
+https://sspai.com/post/87558
