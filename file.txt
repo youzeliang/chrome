@@ -822,3 +822,16 @@ https://www.learnku.com/
 https://www.suan5.com/
 https://www.dbaplus.cn/
 https://www.yunqian.net/
+https://juejin.cn/post/6844903641610977287
+https://www.haohongfan.com/
+https://juejin.cn/post/6844903861816131598#heading-4
+https://songjiayang.gitbooks.io/go-basic-courses/content/ch5/array.html
+https://lafengnan.gitbooks.io/blog/content/redis/chapter1.html
+https://www.anquanke.com/post/id/218674
+https://hackernoon.com/leveraging-multithreading-to-read-large-files-faster-in-go-lmn32t7
+https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html
+https://segmentfault.com/a/1190000022396146
+https://my.oschina.net/u/4526289/blog/5531601
+https://my.oschina.net/ioly/blog/4951438
+https://segmentfault.com/a/1190000039181355
+https://segmentfault.com/a/1190000039184068
