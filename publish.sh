@@ -1,6 +1,7 @@
 #！/bin/bash
 git pull && git add * && git commit -a  -m  'update' && git push origin master
 
+# 211
 
 
 #git pull origin master
