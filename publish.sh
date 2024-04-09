@@ -2,7 +2,7 @@
 
 git pull origin master
 
-python3.7 unique.py
+#python3.7 unique.py
 
 git config  --global user.email  "youzel@126.com"
 
