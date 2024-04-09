@@ -1,6 +1,6 @@
 #！/bin/bash
 
-git pull origin master
+#git pull origin master
 
 #python3.7 unique.py
 
