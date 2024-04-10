@@ -558,7 +558,6 @@ https://www.zbxsyy.com/
 https://www.guanshuya.com/
 https://www.p-articles.com/
 https://m.3169.net/
-https://www.jd.com/
 https://mp.weixin.qq.com/s/QONfbKioFf6VqJE2OwP7Kw
 https://www.tinglanshu.com/
 https://www.juscomply.com/
@@ -875,7 +874,6 @@ https://www.langrenxiaoshuo.com/
 https://www.beatdropapp.com/
 https://github.com/mergestat/mergestat
 https://www.yodu.app/
-https://www.jd.com/
 https://www.juscomply.com/
 https://medium.com/@yanzay/building-github-actions-using-go-80a0add54104
 https://mp.weixin.qq.com/s/eyr-m8GzELmjEeyKVgwgWA
