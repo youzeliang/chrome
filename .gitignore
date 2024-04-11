@@ -102,6 +102,7 @@ ENV/
 .idea/
 /dist/
 /futuquant.egg-info/
-
+publish.sh
+*.sh
 # file
 #*.csv
