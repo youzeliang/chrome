@@ -731,3 +731,7 @@ https://www.cnblogs.com/imyalost/p/16867940.html
 https://blog.51cto.com/alex/6164782
 https://github.com/EDDYCJY/blog/blob/master/tools/godebug-sched.md
 https://mp.weixin.qq.com/s/DxycOYH3pNpJFYdf6ESbhA
+https://medium.com/@pafortin/simple-go-dependency-injection-part-1-96fd9ba1b7a7
+https://outcrawl.com/go-dependency-injection
+https://mp.weixin.qq.com/s/EMK6ZVmDcBQHcVilBPaSeg
+https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca
