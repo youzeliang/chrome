@@ -13,11 +13,12 @@ def deduplicate_http(file_path):
                 flag = True
 
     unique_lines = list(set(http_lines))
-
-    with open(file_path, 'r', encoding='utf-8') as file:
-        original_content = file.readlines()
-
-    if original_content == unique_lines and flag:
+    #
+    # with open(file_path, 'r', encoding='utf-8') as file:
+    #     original_content = file.readlines()
+    #
+    # if original_content == unique_lines and flag:
+    if flag:
         print("文件内容未发生变化，无需修改。")
     else:
         # 将去重后的内容覆盖回原文件
