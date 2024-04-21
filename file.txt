@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
+<<<<<< HEAD
 https://www.lg.gov.cn/
 https://betterprogramming.pub/how-to-avoid-race-conditions-in-golang-5e343146ed61
 https://www.23qb.com/
