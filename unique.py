@@ -29,9 +29,17 @@ def deduplicate_http(file_path):
 file_path = "file.txt"
 deduplicate_http(file_path)
 
-dirf
+dirfile = os.path.abspath(file_path)
+repo = Repo(dirfile)
 
-repo.g
+
+g = repo.git
+
+g.add('--all')
+g.commit('-m', 'update file')
+g.push()
+
+
 
 
 
