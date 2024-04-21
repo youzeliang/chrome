@@ -1,4 +1,3 @@
-
 from git import Repo
 import os
 
@@ -29,12 +28,10 @@ def deduplicate_http(file_path):
 file = "file.txt"
 deduplicate_http(file)
 
-
 file_path = '/Users/youzeliang/dev/code/chrome'
 
 dirfile = os.path.abspath(file_path)
 repo = Repo(dirfile)
-
 
 g = repo.git
 
@@ -45,9 +42,5 @@ g.push()
 print("push success")
 
 
-
-
-
-
-
-
+if __name__ == '__main__':
+    deduplicate_http()
