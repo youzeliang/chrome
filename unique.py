@@ -26,7 +26,7 @@ def deduplicate_http(file_path):
             file.writelines(unique_lines)
 
 
-file_path = "file.txt"
+file_path = "/Users/youzeliang/dev/code/chrome/"
 deduplicate_http(file_path)
 
 dirfile = os.path.abspath(file_path)
