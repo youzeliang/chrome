@@ -1,5 +1,7 @@
 
-from git 
+from git import Repo
+import os
+
 
 def deduplicate_http(file_path):
     http_lines = []
@@ -26,6 +28,14 @@ def deduplicate_http(file_path):
 
 file_path = "file.txt"
 deduplicate_http(file_path)
+
+dirf
+
+repo.g
+
+
+
+
 
 
 
