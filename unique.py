@@ -42,6 +42,7 @@ g.add('--all')
 g.commit('-m', 'update file')
 g.push()
 
+print("push success")
 
 
 
