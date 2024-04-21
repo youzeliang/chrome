@@ -24,23 +24,19 @@ def deduplicate_http(file_path):
         with open(file_path, 'w', encoding='utf-8') as file:
             file.writelines(unique_lines)
 
+        file_path = '/Users/youzeliang/dev/code/chrome'
 
-file = "file.txt"
-deduplicate_http(file)
+        dirfile = os.path.abspath(file_path)
+        repo = Repo(dirfile)
 
-file_path = '/Users/youzeliang/dev/code/chrome'
+        g = repo.git
 
-dirfile = os.path.abspath(file_path)
-repo = Repo(dirfile)
+        g.add('--all')
+        g.commit('-m', 'update file')
+        g.push()
 
-g = repo.git
-
-g.add('--all')
-g.commit('-m', 'update file')
-g.push()
-
-print("push success")
+        print("push success")
 
 
 if __name__ == '__main__':
-    deduplicate_http()
+    deduplicate_http('/Users/youzeliang/dev/code/chrome/file.txt')
