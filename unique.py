@@ -26,8 +26,11 @@ def deduplicate_http(file_path):
             file.writelines(unique_lines)
 
 
-file_path = "/Users/youzeliang/dev/code/chrome/"
-deduplicate_http(file_path)
+file = "file.txt"
+deduplicate_http(file)
+
+
+file_path = '/Users/youzeliang/dev/code/chrome'
 
 dirfile = os.path.abspath(file_path)
 repo = Repo(dirfile)
