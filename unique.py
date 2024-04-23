@@ -42,7 +42,7 @@ def deduplicate_http(file_name):
         g.push()
 
         print("push success")
-        g.config('--global', 'user.email', 'liangyouze@tal.com')
+    g.config('--global', 'user.email', 'liangyouze@tal.com')
 
 
 if __name__ == '__main__':
