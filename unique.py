@@ -14,6 +14,7 @@ def deduplicate_http(file_name):
     g.commit('-m', 'update file')
     g.pull()
     g.push()
+    g.config('--global', 'user.email', 'liangyouze@tal.com')
 
     http_lines = []
     flag = False
@@ -37,9 +38,11 @@ def deduplicate_http(file_name):
         with open(file_name, 'w', encoding='utf-8') as file:
             file.writelines(unique_lines)
 
+        g.config('--global', 'user.email', 'youzel@126.com')
         g.add('--all')
         g.commit('-m', 'update file')
         g.push()
+        g.config('--global', 'user.email', 'liangyouze@tal.com')
 
         print("push success")
     g.config('--global', 'user.email', 'liangyouze@tal.com')
