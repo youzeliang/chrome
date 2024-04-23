@@ -13,7 +13,7 @@ def deduplicate_http(file_name):
     g.add('--all')
     g.commit('-m', 'update file')
     g.pull()
-    # g.push()
+    g.push()
 
     http_lines = []
     flag = False
