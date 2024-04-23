@@ -10,6 +10,7 @@ def deduplicate_http(file_name):
     g.config('--global', 'user.name', 'youze')
     g.config('--global', 'user.email', 'youzel@126.com')
 
+    g.push()
     g.add('--all')
     g.commit('-m', 'update file')
     g.pull()
