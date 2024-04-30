@@ -13,7 +13,7 @@ def deduplicate_http(file_name):
     g.push()
 
     http_lines = []
-    flag = False
+    flag = True
     with open(file_name, 'r', encoding='utf-8') as file:
         for line in file:
             if 'http' in line:
