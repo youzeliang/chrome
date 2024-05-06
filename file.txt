@@ -1092,3 +1092,11 @@ https://www.shsgcc.com/
 https://cloud.tencent.com/developer/article/2000058
 https://www.fangxinyidai.com/
 https://www.guomajiu.com/
+https://segmentfault.com/a/1190000019957459?u_atoken=aa3d0be6-763b-4535-ade1-85aff98c95d5&u_asig=xu0cZSnb1P&u_aref=j0u%2FnlLumpNqGP1eUuxbCbsFBgM%3D
+https://juejin.cn/post/6844903924017659911
+https://zhuanlan.zhihu.com/p/58519480
+https://medium.com/@suryaprakashgond/golang-interview-question-part-1-golang-basic-4d9a5b0caa4a
+https://blog.stackademic.com/design-patterns-in-go-the-command-a-simple-implementation-of-a-versatile-pattern-hacking-with-4bd59ba9958d
+https://juejin.cn/post/7168098151813873701
+https://juejin.cn/post/7170374001129160718
+https://juejin.cn/post/7064185118788681765
