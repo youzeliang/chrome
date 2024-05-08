@@ -395,7 +395,6 @@ https://www.oicq88.com/
 https://vkvan.com/
 https://cloud.tencent.com/developer/article/2350025
 https://www.syncfusion.com/blogs/post/go-cloud-brings-new-functionality-to-the-go-programming-language.aspx
-https://weibo.com/
 https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system
 https://dreddsa5dies.github.io/algorithm/
 https://cloud.tencent.com/developer/article/2350023
@@ -1100,3 +1099,4 @@ https://blog.stackademic.com/design-patterns-in-go-the-command-a-simple-implemen
 https://juejin.cn/post/7168098151813873701
 https://juejin.cn/post/7170374001129160718
 https://juejin.cn/post/7064185118788681765
+https://www.iamshuaidi.com/
