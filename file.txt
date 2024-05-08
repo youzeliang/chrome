@@ -430,7 +430,6 @@ https://www.liubai.org/
 https://www.mbvka.cn/
 https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/
 https://www.tangshanzuche.com/
-https://weibo.com/
 https://cloud.tencent.com/developer/article/2350039
 https://cloud.tencent.com/developer/article/1004367
 https://faun.pub/dependency-injection-in-go-the-better-way-833e2cc65fab
