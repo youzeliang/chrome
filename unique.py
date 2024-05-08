@@ -7,8 +7,6 @@ def deduplicate_http(file_name):
     dirfile = os.path.abspath(file_path)
     repo = Repo(dirfile)
     g = repo.git
-    g.config('--global', 'user.name', 'youze')
-    g.config('--global', 'user.email', 'youzel@126.com')
 
     g.add('--all')
     g.commit('-m', 'update file')
@@ -24,11 +22,7 @@ def deduplicate_http(file_name):
                 flag = False
 
     unique_lines = list(set(http_lines))
-    #
-    # with open(file_path, 'r', encoding='utf-8') as file:
-    #     original_content = file.readlines()
-    #
-    # if original_content == unique_lines and flag:
+
     if flag:
         print("文件内容未发生变化，无需修改。")
     else:
@@ -36,15 +30,11 @@ def deduplicate_http(file_name):
         with open(file_name, 'w', encoding='utf-8') as file:
             file.writelines(unique_lines)
     try:
-        g.config('--global', 'user.name', 'youze')
-        g.config('--global', 'user.email', 'youzel@126.com')
-
         g.push()
         g.add('--all')
         g.commit('-m', 'update file')
         g.pull()
         g.push()
-        g.config('--global', 'user.email', 'liangyouze@tal.com')
 
         http_lines = []
         flag = False
@@ -56,11 +46,6 @@ def deduplicate_http(file_name):
                     flag = False
 
         unique_lines = list(set(http_lines))
-        #
-        # with open(file_path, 'r', encoding='utf-8') as file:
-        #     original_content = file.readlines()
-        #
-        # if original_content == unique_lines and flag:
         if flag:
             print("文件内容未发生变化，无需修改。")
         else:
@@ -68,17 +53,14 @@ def deduplicate_http(file_name):
             with open(file_name, 'w', encoding='utf-8') as file:
                 file.writelines(unique_lines)
 
-            g.config('--global', 'user.email', 'youzel@126.com')
             g.add('--all')
             g.commit('-m', 'update file')
             g.push()
-            g.config('--global', 'user.email', 'liangyouze@tal.com')
 
             print("push success")
-        g.config('--global', 'user.email', 'liangyouze@tal.com')
 
     except  Exception as e:
-        g.config('--global', 'user.email', 'liangyouze@tal.com')
+        pass
 
 
 if __name__ == '__main__':
