@@ -9,6 +9,8 @@ def deduplicate_http(file_name):
     g = repo.git
 
     if not repo.is_dirty():
+        g.push()
+
         print("文件内容未发生变化，无需提交。")
         return
 
