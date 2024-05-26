@@ -1158,3 +1158,4 @@ https://cloud.tencent.com/developer/article/1004423
 https://cloud.tencent.com/developer/article/1004424
 https://cloud.tencent.com/developer/article/1004433
 https://juejin.cn/post/6844903782141132813
+  stderr: 'fatal: could not read Username for 'https://github.com': Device not configured'
