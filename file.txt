@@ -1162,3 +1162,4 @@ https://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjIyMA==&mid=2247544525&idx=1&sn=3c3b1c
 https://segmentfault.com/a/1190000041090167
 http://zhangtielei.com/posts/blog-redlock-reasoning.html
 https://vonng.github.io/ddia/#/part-i
+https://segmentfault.com/a/1190000019221604
