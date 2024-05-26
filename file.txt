@@ -1165,3 +1165,5 @@ https://vonng.github.io/ddia/#/part-i
 https://segmentfault.com/a/1190000019221604
 https://zhuanlan.zhihu.com/p/67832788
 https://mp.weixin.qq.com/s/M92bQQ4ESeE-RkiPiu-oRw
+https://blog.devgenius.io/implementing-a-distributed-lock-with-go-and-dbus-85a3f5ea0fb9
+https://mp.weixin.qq.com/s/QhOsBV2y5DXeC7yCCxH-uA
