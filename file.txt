@@ -1167,3 +1167,5 @@ https://zhuanlan.zhihu.com/p/67832788
 https://mp.weixin.qq.com/s/M92bQQ4ESeE-RkiPiu-oRw
 https://blog.devgenius.io/implementing-a-distributed-lock-with-go-and-dbus-85a3f5ea0fb9
 https://mp.weixin.qq.com/s/QhOsBV2y5DXeC7yCCxH-uA
+https://lrita.github.io/2017/05/26/golang-memory-pprof/#7-%E4%BD%BF%E7%94%A8syncpool%E6%9D%A5%E7%BC%93%E5%AD%98%E5%B8%B8%E7%94%A8%E7%9A%84%E5%AF%B9%E8%B1%A1
+https://segmentfault.com/a/1190000039005031
