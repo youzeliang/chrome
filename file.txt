@@ -1163,3 +1163,4 @@ https://segmentfault.com/a/1190000041090167
 http://zhangtielei.com/posts/blog-redlock-reasoning.html
 https://vonng.github.io/ddia/#/part-i
 https://segmentfault.com/a/1190000019221604
+https://zhuanlan.zhihu.com/p/67832788
