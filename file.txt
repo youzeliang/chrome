@@ -1139,3 +1139,4 @@ https://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjIyMA==&mid=2247543315&idx=1&sn=d39da1
 https://mp.weixin.qq.com/s/Xxv3sS1BmImPqwcTEXJjbQ
 https://mp.weixin.qq.com/s/uGFNkQ1IRdw7XG7QarSYWA
 https://mp.weixin.qq.com/s/scMHCHypMOqXj-tzmXmweA
+https://rauhl.com/2019/06/implementing-a-resumable-exception-system-in-go/
