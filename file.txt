@@ -1140,3 +1140,4 @@ https://mp.weixin.qq.com/s/Xxv3sS1BmImPqwcTEXJjbQ
 https://mp.weixin.qq.com/s/uGFNkQ1IRdw7XG7QarSYWA
 https://mp.weixin.qq.com/s/scMHCHypMOqXj-tzmXmweA
 https://rauhl.com/2019/06/implementing-a-resumable-exception-system-in-go/
+https://ioshellboy.medium.com/circuit-breakers-in-golang-1779da9b001
