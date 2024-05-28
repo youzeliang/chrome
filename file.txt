@@ -1172,3 +1172,4 @@ https://segmentfault.com/a/1190000039005031
 https://blog.min.io/accelerating-aggregate-md5-hashing-up-to-800-with-avx512-2/
 https://juejin.cn/post/7112373703769325605
 https://studygolang.com/articles/23498
+https://www.51cto.com/article/714883.html
