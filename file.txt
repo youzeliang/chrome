@@ -1169,3 +1169,4 @@ https://blog.devgenius.io/implementing-a-distributed-lock-with-go-and-dbus-85a3f
 https://mp.weixin.qq.com/s/QhOsBV2y5DXeC7yCCxH-uA
 https://lrita.github.io/2017/05/26/golang-memory-pprof/#7-%E4%BD%BF%E7%94%A8syncpool%E6%9D%A5%E7%BC%93%E5%AD%98%E5%B8%B8%E7%94%A8%E7%9A%84%E5%AF%B9%E8%B1%A1
 https://segmentfault.com/a/1190000039005031
+https://blog.min.io/accelerating-aggregate-md5-hashing-up-to-800-with-avx512-2/
