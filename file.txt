@@ -1173,3 +1173,4 @@ https://blog.min.io/accelerating-aggregate-md5-hashing-up-to-800-with-avx512-2/
 https://juejin.cn/post/7112373703769325605
 https://studygolang.com/articles/23498
 https://www.51cto.com/article/714883.html
+https://itnext.io/version-1-18-refresh-for-go-programmers-f1b0fcfa3b4a
