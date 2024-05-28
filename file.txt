@@ -1176,3 +1176,5 @@ https://www.51cto.com/article/714883.html
 https://itnext.io/version-1-18-refresh-for-go-programmers-f1b0fcfa3b4a
 https://icexin.com/post/running-go-application-on-bare-metal/
 https://segmentfault.com/a/1190000040181868
+https://moshe-beladev-mb.medium.com/debug-aws-lambda-functions-with-gebug-bc643788c247
+https://leogtzr.medium.com/how-to-use-makefiles-for-your-golang-development-b4c438fe0bdd
