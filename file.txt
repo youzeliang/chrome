@@ -1180,3 +1180,4 @@ https://moshe-beladev-mb.medium.com/debug-aws-lambda-functions-with-gebug-bc6437
 https://leogtzr.medium.com/how-to-use-makefiles-for-your-golang-development-b4c438fe0bdd
 https://cujo.com/blog/reverse-engineering-go-binaries-with-ghidra/
 https://github.com/cloudflare/tableflip
+https://medium.com/@monirz/deploy-golang-app-in-5-minutes-ff354954fa8e
