@@ -1189,3 +1189,4 @@ https://medium.com/@j.d.livni/write-a-go-worker-pool-in-15-minutes-c9b42f640923
 https://medium.com/@oboturov/golang-time-after-is-not-garbage-collected-4cbc94740082
 https://waclawthedev.medium.com/inaccurate-float32-and-float64-how-to-avoid-the-trap-in-go-golang-6de59e66aed9
 https://teivah.medium.com/profiling-and-execution-tracing-in-go-a5e646970f5b
+https://yangxikun.com/golang/2019/10/19/golang-grpc-client-side-lb.html
