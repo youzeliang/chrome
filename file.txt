@@ -1187,3 +1187,5 @@ https://medium.com/square-corner-blog/always-be-closing-3d5fda0e00da
 https://medium.com/koinex-crunch/pushman-the-koinex-standard-for-realtime-experience-4122d2715c92
 https://medium.com/@j.d.livni/write-a-go-worker-pool-in-15-minutes-c9b42f640923
 https://medium.com/@oboturov/golang-time-after-is-not-garbage-collected-4cbc94740082
+https://waclawthedev.medium.com/inaccurate-float32-and-float64-how-to-avoid-the-trap-in-go-golang-6de59e66aed9
+https://teivah.medium.com/profiling-and-execution-tracing-in-go-a5e646970f5b
