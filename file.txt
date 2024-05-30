@@ -1202,3 +1202,4 @@ https://mp.weixin.qq.com/s/8XInV5LbIwo3kS4nvmZDDw
 https://www.cnblogs.com/sdges/p/17521382.html
 https://zhuanlan.zhihu.com/p/434732426
 https://artem.krylysov.com/blog/2018/12/12/string-interning-in-go/
+https://www.flysnow.org/2019/01/07/golang-classic-libs-httprouter#google_vignette
