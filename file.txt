@@ -1199,3 +1199,6 @@ https://liudanking.com/performance/golang-strings-builder-%E2%80%98%E2%89%A0%C2%
 https://www.infoq.com/articles/realtime-event-driven-ecosystem/
 https://segmentfault.com/a/1190000022909135
 https://mp.weixin.qq.com/s/8XInV5LbIwo3kS4nvmZDDw
+https://www.cnblogs.com/sdges/p/17521382.html
+https://zhuanlan.zhihu.com/p/434732426
+https://artem.krylysov.com/blog/2018/12/12/string-interning-in-go/
