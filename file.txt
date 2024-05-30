@@ -1196,3 +1196,4 @@ http://www.kn121.com/news/81039.html
 https://segmentfault.com/a/1190000020500985
 https://zhuanlan.zhihu.com/p/40572954
 https://liudanking.com/performance/golang-strings-builder-%E2%80%98%E2%89%A0%C2%BF%C3%8C%CE%A9%E2%80%9A%C5%92%CB%86/
+https://www.infoq.com/articles/realtime-event-driven-ecosystem/
