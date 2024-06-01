@@ -1222,3 +1222,4 @@ https://tonnyl.io/Write-A-Go-App/
 https://mp.weixin.qq.com/s/siqG3ePZ5jDsuYeC-_hAGg
 https://blog.fekr.tech/generate-monitor-and-throttle-cpu-load-in-go-cke9wmddd000t65s15l7q2pd6
 https://mp.weixin.qq.com/s/b9TlrMU8skpIlpmk5ph-4A
+https://systemweakness.com/golang-understanding-how-go-html-template-system-prevents-crossed-site-attack-xss-ee862478ed29
