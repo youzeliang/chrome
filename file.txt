@@ -1245,3 +1245,6 @@ https://www.cnblogs.com/DilonWu/p/8645355.html
 http://www.linkedkeeper.com/detail/blog.action?bid=1105
 https://robreid.io/runtime-goexit/
 https://blog.51cto.com/steed/2339367
+https://www.cnblogs.com/bener/p/10683404.html
+http://www.songjiayang.com/posts/go-zhong-you-ya-guan-bi-zi-jin-cheng
+http://yangxikun.com/golang/2019/08/10/golang-circuit.html
