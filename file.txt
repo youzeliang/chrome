@@ -20,8 +20,8 @@ https://www.517ming.com/
 https://zhuanlan.zhihu.com/p/485128661
 https://cloud.tencent.com/developer/article/1004464
 https://cloud.tencent.com/developer/article/2000016
-https://segmentfault.com/a/1190000020035137
 https://medium.com/@satrobit/introduction-to-gossip-epidemic-protocol-and-memberlist-5424352cdce0
+https://segmentfault.com/a/1190000020035137
 https://www.fbook.net/
 https://cloud.tencent.com/developer/article/1004378
 https://cloud.tencent.com/developer/article/1004367
