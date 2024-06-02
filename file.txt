@@ -1251,3 +1251,7 @@ http://yangxikun.com/golang/2019/08/10/golang-circuit.html
 https://betterprogramming.pub/memory-optimization-and-garbage-collector-management-in-go-71da4612a960
 https://appliedgo.net/futures/
 https://medium.com/@bykovskimichael/dingo-the-dependency-injection-framework-for-go-9b1f1d44c419
+https://juejin.cn/post/6919748196809834503
+https://github.com/CryogenicPlanet/depp
+https://medium.com/@erez.levi/using-uber-fx-to-simplify-dependency-injection-875363245c4c
+https://segmentfault.com/a/1190000022740651
