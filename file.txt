@@ -1240,3 +1240,8 @@ https://www.youdubook.com/
 https://www.faloo.com/
 https://blog.codonomics.com/2017/09/rob-pikes-5-rules-of-programming.html%C2%B0%C2%BF%C2%B0%C2%BF%C2%B0%C2%BF
 https://www.cnblogs.com/chenqionghe/p/8269556.html
+http://www.opscoder.info/ectd-raft-library.html
+https://www.cnblogs.com/DilonWu/p/8645355.html
+http://www.linkedkeeper.com/detail/blog.action?bid=1105
+https://robreid.io/runtime-goexit/
+https://blog.51cto.com/steed/2339367
