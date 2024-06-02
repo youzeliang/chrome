@@ -1249,3 +1249,5 @@ https://www.cnblogs.com/bener/p/10683404.html
 http://www.songjiayang.com/posts/go-zhong-you-ya-guan-bi-zi-jin-cheng
 http://yangxikun.com/golang/2019/08/10/golang-circuit.html
 https://betterprogramming.pub/memory-optimization-and-garbage-collector-management-in-go-71da4612a960
+https://appliedgo.net/futures/
+https://medium.com/@bykovskimichael/dingo-the-dependency-injection-framework-for-go-9b1f1d44c419
