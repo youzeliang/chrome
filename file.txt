@@ -1257,3 +1257,4 @@ https://medium.com/@erez.levi/using-uber-fx-to-simplify-dependency-injection-875
 https://segmentfault.com/a/1190000022740651
 https://mp.weixin.qq.com/s/r80CL0PKFq13qY_wgYYT6w
 https://betterprogramming.pub/scaling-a-websocket-service-with-go-858b259d4974
+https://mp.weixin.qq.com/s/P-bGp0LRh_TthB-8rsFCTQ
