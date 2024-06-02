@@ -1238,3 +1238,5 @@ https://www.hkreadingcity.net/
 https://betterprogramming.pub/writing-better-code-with-go-concurrency-patterns-9bc5f9f73519
 https://www.youdubook.com/
 https://www.faloo.com/
+https://blog.codonomics.com/2017/09/rob-pikes-5-rules-of-programming.html%C2%B0%C2%BF%C2%B0%C2%BF%C2%B0%C2%BF
+https://www.cnblogs.com/chenqionghe/p/8269556.html
