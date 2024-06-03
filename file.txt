@@ -1274,3 +1274,4 @@ https://github.com/bracesdev/errtrace
 https://blog.canopas.com/golang-14-shorthand-tricks-you-might-not-know-8d8d21954c49
 https://mp.weixin.qq.com/s/Eac56e2NrFB6NeIB5MNMng
 https://juejin.cn/post/7312759727993782311
+https://cloud.tencent.com/developer/article/1004348
