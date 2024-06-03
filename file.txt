@@ -1270,3 +1270,4 @@ https://tomaz.lovrec.eu/posts/graceful-server-restart/
 https://bbs-go.com/
 https://gianarb.it/blog/go-continuous-profiling-profefe
 https://blog.devgenius.io/when-go-is-better-than-rust-for-development-3df26e484194
+https://github.com/bracesdev/errtrace
