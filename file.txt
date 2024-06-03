@@ -1259,3 +1259,5 @@ https://mp.weixin.qq.com/s/r80CL0PKFq13qY_wgYYT6w
 https://betterprogramming.pub/scaling-a-websocket-service-with-go-858b259d4974
 https://mp.weixin.qq.com/s/P-bGp0LRh_TthB-8rsFCTQ
 https://juejin.cn/post/7224439284589428796
+https://studygolang.com/articles/26383#google_vignette
+https://studygolang.com/articles/26713
