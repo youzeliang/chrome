@@ -1271,3 +1271,4 @@ https://bbs-go.com/
 https://gianarb.it/blog/go-continuous-profiling-profefe
 https://blog.devgenius.io/when-go-is-better-than-rust-for-development-3df26e484194
 https://github.com/bracesdev/errtrace
+https://blog.canopas.com/golang-14-shorthand-tricks-you-might-not-know-8d8d21954c49
