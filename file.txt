@@ -1264,3 +1264,4 @@ https://studygolang.com/articles/26713
 https://www.cnblogs.com/zhucheer/p/12368301.html
 https://juejin.cn/post/6864886461746855949
 https://itnext.io/10-features-of-go-that-set-it-apart-from-other-languages-89337e5ee551
+https://xie.infoq.cn/article/06adc489ef0b22074c7c6d78c
