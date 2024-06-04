@@ -68,6 +68,24 @@ def deduplicate_http(file_name):
     except  Exception as e:
         pass
 
+def unique(file_name):
+    http_lines = []
+    flag = True
+    with open(file_name, 'r', encoding='utf-8') as file:
+        for line in file:
+            if 'http' in line:
+                http_lines.append(line)
+            if '<' in line:
+                flag = False
+
+    unique_lines = list(set(http_lines))
+
+    if flag:
+        print("文件内容未发生变化，无需修改。")
+    else:
+        # 将去重后的内容覆盖回原文件
+        with open(file_name, 'w', encoding='utf-8') as file:
+            file.writelines(unique_lines)
 
 if __name__ == '__main__':
     deduplicate_http('/Users/youzeliang/dev/code/chrome/file.txt')
