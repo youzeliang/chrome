@@ -1282,3 +1282,10 @@ https://segmentfault.com/a/1190000021771865?u_atoken=2d044579-a4f5-4c1c-ae6b-9aa
 https://weaviate.io/blog/gomemlimit-a-game-changer-for-high-memory-applications
 https://www.polarsignals.com/blog/posts/2021/04/13/demystifying-pprof-labels-with-go
 https://www.polarsignals.com/blog/posts/2021/08/03/diy-pprof-profiles-using-go
+https://dave.cheney.net/2020/05/02/mid-stack-inlining-in-go
+https://mp.weixin.qq.com/s/aAay4fONpVNKo1WGL6Rkcg
+https://mp.weixin.qq.com/s/zXDvOoNLJDRR9Bu5CeZc7Q
+https://github.com/mholt/archiver
+https://cloud.tencent.com/developer/article/1004420
+https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484112&idx=1&sn=79d0d3167d0d962fe41ec00cdafffbb0&chksm=fa80d347cdf75a51183182f14622af766538ca0c5335012e5e1cc50b100e78f2954fa3943770&token=730660954&lang=zh_CN
+https://yangxikun.com/golang/2019/10/07/golang-map.html
