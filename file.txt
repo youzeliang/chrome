@@ -1291,3 +1291,4 @@ https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484112&idx=1&sn=79d0d3
 https://yangxikun.com/golang/2019/10/07/golang-map.html
 https://mp.weixin.qq.com/s/kt-xtvM77UZ3kD-3dpU7sw
 https://juejin.cn/post/7221004205271072805
+https://blog.bytebytego.com/p/redis-can-do-more-than-caching
