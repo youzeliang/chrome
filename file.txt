@@ -1315,3 +1315,5 @@ https://proxy.golang.org/
 https://blog.huyage.dev/posts/simple-dependency-injection-in-go/
 https://medium.com/@in.live.in/goworkers-a-simple-efficient-worker-pool-implementation-cfda05813adb
 https://ieftimov.com/posts/golang-datastructures-stacks-queues/
+https://mp.weixin.qq.com/s/GwJHSUAyUhh-2t16BZa4sQ
+https://alexravikovich.medium.com/writing-mysql-proxy-in-go-for-learning-purposes-part-2-decoding-connection-phase-server-response-7091d87e877e
