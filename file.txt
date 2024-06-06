@@ -1310,3 +1310,4 @@ https://github.com/minio/minio
 https://viscarra.dev/post/webrtc-gspeech/
 https://engineering.linecorp.com/
 https://mp.weixin.qq.com/s/cRab8ttjqgrZUN0Zoqc-XA
+https://qcrao.com/post/accident/
