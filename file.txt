@@ -1308,3 +1308,5 @@ https://mp.weixin.qq.com/s/X9dKNO6sd-OY2VfsZpaElA
 https://blog.fanscore.cn/p/34/
 https://github.com/minio/minio
 https://viscarra.dev/post/webrtc-gspeech/
+https://engineering.linecorp.com/
+https://mp.weixin.qq.com/s/cRab8ttjqgrZUN0Zoqc-XA
