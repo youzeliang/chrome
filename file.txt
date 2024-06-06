@@ -1314,3 +1314,4 @@ https://qcrao.com/post/accident/
 https://proxy.golang.org/
 https://blog.huyage.dev/posts/simple-dependency-injection-in-go/
 https://medium.com/@in.live.in/goworkers-a-simple-efficient-worker-pool-implementation-cfda05813adb
+https://ieftimov.com/posts/golang-datastructures-stacks-queues/
