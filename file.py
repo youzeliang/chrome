@@ -1,7 +1,5 @@
 import webbrowser
 
-
-
 def remove_str(file_name):
     """
     打开文件，去除前71行，然后保存剩余内容。
