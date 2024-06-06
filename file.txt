@@ -1302,3 +1302,5 @@ https://levelup.gitconnected.com/how-i-embedded-resources-in-go-514b72f6ef0a
 https://mp.weixin.qq.com/s/_e9Qa97gZvgv9n-pFB4lFw
 https://mp.weixin.qq.com/s/cgjCL59e3CDWhsxzwkuKBg
 https://mp.weixin.qq.com/s/RPdtslg2L-SuhU0fdi3QQg
+https://appliedgo.net/diydashboard/
+https://mp.weixin.qq.com/s/m0uBBfdKl1ugMqKE9ebcjw
