@@ -1300,3 +1300,4 @@ https://blog.bytebytego.com/p/redis-can-do-more-than-caching
 https://mp.weixin.qq.com/s/U0311_AiGkIEtyuO9Uh1Rw
 https://levelup.gitconnected.com/how-i-embedded-resources-in-go-514b72f6ef0a
 https://mp.weixin.qq.com/s/_e9Qa97gZvgv9n-pFB4lFw
+https://mp.weixin.qq.com/s/cgjCL59e3CDWhsxzwkuKBg
