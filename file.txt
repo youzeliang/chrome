@@ -1375,3 +1375,5 @@ go tool pprof -alloc_objects httpdemo http://192.168.3.34:9909/debug/pprof/heap
 https://juejin.cn/post/6844903911652868104
 https://mp.weixin.qq.com/s?__biz=Mzg3NjczMjkzMQ==&mid=2247485846&idx=2&sn=033931d22730a24128915d8498c9e3fb&source=41#wechat_redirect
 https://mp.weixin.qq.com/s/Xn-MvVPjxZ_-nssePQozwQ
+https://onepage.nopub.io/p/Logging-HTTP-requests-in-Go-233de7fe59a747078b35b82a1b035d36
+https://www.uber.com/en-HK/blog/observability-anomaly-detection/
