@@ -1378,4 +1378,3 @@ https://mp.weixin.qq.com/s/Xn-MvVPjxZ_-nssePQozwQ
 https://onepage.nopub.io/p/Logging-HTTP-requests-in-Go-233de7fe59a747078b35b82a1b035d36
 https://www.uber.com/en-HK/blog/observability-anomaly-detection/
 https://mp.weixin.qq.com/s/yvK42TntdzAI9S6kBFFZ-w
-https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/
