@@ -1384,3 +1384,5 @@ https://mp.weixin.qq.com/s?__biz=Mzg5NDYxNTYyMw==&mid=2247487613&idx=1&sn=2da9b9
 https://mp.weixin.qq.com/s/6ZMjo02qUA6jSWMP549ohw
 https://zhuanlan.zhihu.com/p/39004143
 https://gaocegege.com/Blog/maxprocs-cpu
+https://amirsoleimani.medium.com/functional-options-in-go-with-generic-863dbd68cc6f
+https://mp.weixin.qq.com/s/5y109CWvj0B4xM3fgkX5WA
