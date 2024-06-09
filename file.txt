@@ -1382,3 +1382,5 @@ https://tonybai.com/2022/07/25/bidirectional-data-exchange-between-kernel-and-us
 https://juejin.cn/post/7232591499069358139
 https://mp.weixin.qq.com/s?__biz=Mzg5NDYxNTYyMw==&mid=2247487613&idx=1&sn=2da9b9774f2e7fe9ef4c337e1605dc41&source=41#wechat_redirect
 https://mp.weixin.qq.com/s/6ZMjo02qUA6jSWMP549ohw
+https://zhuanlan.zhihu.com/p/39004143
+https://gaocegege.com/Blog/maxprocs-cpu
