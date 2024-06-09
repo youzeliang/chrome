@@ -1379,3 +1379,4 @@ https://onepage.nopub.io/p/Logging-HTTP-requests-in-Go-233de7fe59a747078b35b82a1
 https://www.uber.com/en-HK/blog/observability-anomaly-detection/
 https://mp.weixin.qq.com/s/yvK42TntdzAI9S6kBFFZ-w
 https://tonybai.com/2022/07/25/bidirectional-data-exchange-between-kernel-and-user-states-of-ebpf-programs-using-go/
+https://juejin.cn/post/7232591499069358139
