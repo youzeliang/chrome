@@ -1394,3 +1394,4 @@ https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247487415&idx=1&sn=e5c148
 https://studygolang.com/articles/30260
 https://cloud.tencent.com/developer/article/1004355
 https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247484088&idx=1&sn=7aa4d0b0c3e18eec07889823a3f4815b&source=41#wechat_redirect
+https://blog.thankbabe.com/posts/2023-02-04-go%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E7%96%91%E4%BC%BC%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5/
