@@ -1389,3 +1389,4 @@ https://mp.weixin.qq.com/s/5y109CWvj0B4xM3fgkX5WA
 https://cloud.tencent.com/developer/article/1004351
 https://segmentfault.com/a/1190000022988368
 https://mp.weixin.qq.com/s/f0jvsyjHkcGNoncszNKfkg
+https://itnext.io/bloom-filters-and-go-1d5ac62557de
