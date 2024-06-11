@@ -1398,3 +1398,4 @@ https://blog.thankbabe.com/posts/2023-02-04-go%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%
 https://juejin.cn/post/7227828958988976185
 https://mp.weixin.qq.com/s/rt4lxGwaYo8IkTdmo186Cg
 https://mp.weixin.qq.com/s/sm0FvppqKgbZzVUOVBIxwQ
+https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/
