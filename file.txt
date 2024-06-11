@@ -1400,3 +1400,4 @@ https://mp.weixin.qq.com/s/rt4lxGwaYo8IkTdmo186Cg
 https://mp.weixin.qq.com/s/sm0FvppqKgbZzVUOVBIxwQ
 https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/
 https://mp.weixin.qq.com/s/whr-sUPly-ZrFSLs9Qrpuw
+https://segmentfault.com/a/1190000003101056
