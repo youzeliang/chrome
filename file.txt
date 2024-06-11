@@ -1401,3 +1401,5 @@ https://mp.weixin.qq.com/s/sm0FvppqKgbZzVUOVBIxwQ
 https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/
 https://mp.weixin.qq.com/s/whr-sUPly-ZrFSLs9Qrpuw
 https://segmentfault.com/a/1190000003101056
+https://juejin.cn/post/7043975020153929735
+https://mp.weixin.qq.com/s/DqMNNzpT91dwLk2KlzL3TA
