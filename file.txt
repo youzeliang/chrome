@@ -1412,3 +1412,4 @@ https://segmentfault.com/a/1190000038772024?u_atoken=a781f1d7-a52c-4b60-917b-ba0
 https://medium.com/globant/navigating-the-waters-of-concurrency-in-go-fec9c99d4bb7
 https://segmentfault.com/a/1190000020323654?u_atoken=614a6172-50db-4644-b74f-39bb73c3b85e&u_asig=2760774617178189920514370eb704&u_aref=lyASl9uKXE3diVQllSnLPrH3a%2BE%3D
 https://segmentfault.com/a/1190000040792073?u_atoken=27c79926-843c-41c3-814b-5c59f2eb044d&u_asig=2760822e17178189920607489ec552&u_aref=vL1Nat5WmSXTDGan19u7ZyjwFU4%3D
+https://segmentfault.com/a/1190000021486059
