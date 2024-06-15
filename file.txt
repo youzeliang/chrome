@@ -1409,3 +1409,5 @@ https://mp.weixin.qq.com/s/T88VCqsmSrUcm0R2iUelHQ
 https://zhuanlan.zhihu.com/p/37673679
 https://mp.weixin.qq.com/s/5zoNwCWnNNunrDtu6cokqg
 https://segmentfault.com/a/1190000038772024?u_atoken=a781f1d7-a52c-4b60-917b-ba01838c3b56&u_asig=2760774517178189920528125e4eb0&u_aref=XHEPIqcOCu%2Ft9%2Bh5Q59aXdU5yEs%3D
+https://medium.com/globant/navigating-the-waters-of-concurrency-in-go-fec9c99d4bb7
+https://segmentfault.com/a/1190000020323654?u_atoken=614a6172-50db-4644-b74f-39bb73c3b85e&u_asig=2760774617178189920514370eb704&u_aref=lyASl9uKXE3diVQllSnLPrH3a%2BE%3D
