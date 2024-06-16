@@ -1438,3 +1438,4 @@ https://mp.weixin.qq.com/s?__biz=MzAxMTA4Njc0OQ==&mid=2651444765&idx=3&sn=f3efcc
 https://juejin.cn/post/7157343624915582990
 https://mp.weixin.qq.com/s/kUmPckrgxJOw8PCjH2fkeA?poc_token=HB4HY2ajpRbGum-aJ_xGPsMjTg1KHOAcfdmAf2lP
 https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247486654&idx=1&sn=ea7171f58254dfecebc61cfbec7b64e5&chksm=fa80dd29cdf7543f97f90723e0470fbcb437f9a614a44c51ccf64e98f56e54711d713e204ab0&token=1150263485&lang=zh_CN&scene=21#wechat_redirect
+https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/
