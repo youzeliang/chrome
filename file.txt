@@ -1434,3 +1434,4 @@ https://speakerdeck.com/kavya719/go-run-race-under-the-hood
 https://tech.townsourced.com/post/embedding-static-files-in-go/
 https://juejin.cn/post/6844903896746295310
 https://juejin.cn/post/6844904014358773767
+https://mp.weixin.qq.com/s?__biz=MzAxMTA4Njc0OQ==&mid=2651444765&idx=3&sn=f3efcca2bb75f8b79e678dc8250a287e&chksm=80bb08efb7cc81f9aeaf7dc8dccefca8ea0c6797b454dd11d246b8a9746ee4c08e406131c07d&scene=21#wechat_redirect
