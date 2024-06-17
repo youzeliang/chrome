@@ -1355,6 +1355,7 @@ https://qcrao.com/post/accident/
 https://proxy.golang.org/
 https://blog.huyage.dev/posts/simple-dependency-injection-in-go/
 https://medium.com/@in.live.in/goworkers-a-simple-efficient-worker-pool-implementation-cfda05813adb
+<<<<<<< HEAD
 https://teivah.medium.com/go-and-cpu-caches-af5d32cc5592
 https://orangetux.nl/post/expvar_in_action/
 https://segmentfault.com/a/1190000042024225
@@ -1441,3 +1442,8 @@ https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247486654&idx=1&sn=ea7171
 https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/
 https://mp.weixin.qq.com/s/iPpWd8vjyaN2sJFwxzN9Bg
 https://www.infoq.cn/news/2017/10/qzone-quic-practise/
+=======
+https://ieftimov.com/posts/golang-datastructures-stacks-queues/
+https://mp.weixin.qq.com/s/GwJHSUAyUhh-2t16BZa4sQ
+https://alexravikovich.medium.com/writing-mysql-proxy-in-go-for-learning-purposes-part-2-decoding-connection-phase-server-response-7091d87e877e
+>>>>>>> c524c1bfa0033ff9a2f07c63ccc51ff5ac7800ed

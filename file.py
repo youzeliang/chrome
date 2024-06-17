@@ -1,7 +1,5 @@
 import webbrowser
 
-
-
 def remove_str(file_name):
     """
     打开文件，去除前71行，然后保存剩余内容。
@@ -13,13 +11,13 @@ def remove_str(file_name):
         count = 0
 
         # 尝试打开前71行作为URL，去除每行末尾的换行符
-        for line in lines[:100]:
+        for line in lines[:70]:
             clean_line = line.rstrip('\n')  # 去除末尾的换行符
             webbrowser.open(clean_line)  # 打开处理后的行作为URL
             count += 1
 
         # 去除前71行后，保存剩余内容
-        for line in lines[80:]:
+        for line in lines[70:]:
             new_lines.append(line)
 
         # 重写文件
