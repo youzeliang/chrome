@@ -1449,3 +1449,4 @@ https://alexravikovich.medium.com/writing-mysql-proxy-in-go-for-learning-purpose
 >>>>>>> c524c1bfa0033ff9a2f07c63ccc51ff5ac7800ed
 https://towardsdatascience.com/programming-apple-gpus-through-go-and-metal-shading-language-a0e7a60a3dba
 https://segmentfault.com/a/1190000022545889
+https://segmentfault.com/a/1190000016744430
