@@ -1473,3 +1473,4 @@ https://mp.weixin.qq.com/s/mKE7x7jw0rK_4ZgokwEC7A
 https://www.cnblogs.com/qixing/p/12228274.html
 https://juejin.cn/post/6844903554180726791
 https://juejin.cn/post/6844904012752371725
+https://zablog.me/2017/09/27/go_sync/
