@@ -1483,3 +1483,4 @@ https://juejin.cn/post/7213257917255385149
 https://pengrl.com/p/20028/
 https://juejin.cn/post/6844903887757901831
 https://xiaorui.cc/archives/5117
+https://shuyi.tech/archives/kafka-message-storage
