@@ -69,5 +69,42 @@ def deduplicate_http(file_name):
         pass
 
 
+def unique(file_name):
+    http_lines = []
+    flag = True
+    with open(file_name, 'r', encoding='utf-8') as file:
+        for line in file:
+            http_lines.append(line)
+
+    unique_lines = list(set(http_lines))
+
+    with open(file_name, 'w', encoding='utf-8') as file:
+        file.writelines(unique_lines)
+
+
+import webbrowser
+
+
+def remove_str(file_name):
+    """
+    打开文件。然后去除特定的关键词，在原有基础上保存为文件
+    """
+    with open(file_name, 'r+') as f:
+        lines = f.readlines()
+        new_lines = []
+        count = 0
+        for line in lines:
+            if count <= 70:
+                webbrowser.open(line)
+                count += 1
+            else:
+                new_lines.append(line)
+                continue
+
+        f.seek(0)
+        f.truncate()
+        f.writelines(new_lines)
+
+
 if __name__ == '__main__':
     deduplicate_http('/Users/youzeliang/dev/code/chrome/file.txt')
