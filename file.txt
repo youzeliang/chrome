@@ -1486,3 +1486,4 @@ https://xiaorui.cc/archives/5117
 https://shuyi.tech/archives/kafka-message-storage
 https://www.cnblogs.com/33debug/p/11891154.html
 https://my.oschina.net/u/4090830/blog/5612011
+https://jingwei.link/2019/06/10/golang-logger-sugar.html
