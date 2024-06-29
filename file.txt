@@ -1487,3 +1487,7 @@ https://shuyi.tech/archives/kafka-message-storage
 https://www.cnblogs.com/33debug/p/11891154.html
 https://my.oschina.net/u/4090830/blog/5612011
 https://jingwei.link/2019/06/10/golang-logger-sugar.html
+https://cloud.tencent.com/developer/article/1004438
+https://cloud.tencent.com/developer/article/1004482
+https://cloud.tencent.com/developer/article/1004481
+https://medium.com/plans?source=upgrade_membership---post_limit--6f8d80f44bd5--------------------------------
