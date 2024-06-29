@@ -1508,3 +1508,8 @@ https://mp.weixin.qq.com/s/d0olIiZgZNyZsO-OZDiEoA
 https://mp.weixin.qq.com/s/yxk7avyv7gY1XjuEI_0Lvw
 https://www.cnblogs.com/CtripDBA/p/12289939.html
 https://ms2008.github.io/2019/06/02/golang-goroutine-leak/
+https://cloud.tencent.com/developer/article/1004466
+https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44
+https://medium.com/a-journey-with-go/go-how-does-the-garbage-collector-mark-the-memory-72cfc12c6976
+https://mp.weixin.qq.com/s?__biz=MzkzNjYxNTU3MQ==&mid=2247487177&idx=1&sn=7ac01350eb5be4088bb43b45985c269d&source=41#wechat_redirect
+https://syslog.ravelin.com/further-dangers-of-large-heaps-in-go-7a267b57d487
