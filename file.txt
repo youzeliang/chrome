@@ -1498,3 +1498,5 @@ https://cloud.tencent.com/developer/article/1004455
 https://gvisor.dev/blog/2022/10/24/buffer-pooling/
 https://blog.devgenius.io/using-goroutines-is-slower-ba99c2fadce9
 https://dgraph.io/blog/post/signal-and-wait/
+https://cloud.tencent.com/developer/article/1004467
+https://cloud.tencent.com/developer/article/1004444
