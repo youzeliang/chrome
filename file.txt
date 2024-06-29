@@ -1520,3 +1520,5 @@ https://levelup.gitconnected.com/concurrency-in-go-shared-memory-a2ef201b396b
 https://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjIyMA==&mid=2247543277&idx=1&sn=bff1817bb5ebae5744dd86138ac4772a&source=41#wechat_redirect
 https://vtimothy.com/posts/debugging-goroutines/
 https://cloud.tencent.com/developer/article/1004447
+https://cloud.tencent.com/developer/article/1444818
+https://zacharyfan.com/archives/1569.html
