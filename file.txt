@@ -1516,3 +1516,4 @@ https://syslog.ravelin.com/further-dangers-of-large-heaps-in-go-7a267b57d487
 https://studygolang.com/articles/33789
 https://www.freecodecamp.org/news/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192
 https://medium.com/@owlwalks/sending-big-file-with-minimal-memory-in-golang-8f3fc280d2c
+https://levelup.gitconnected.com/concurrency-in-go-shared-memory-a2ef201b396b
