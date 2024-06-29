@@ -1500,3 +1500,4 @@ https://blog.devgenius.io/using-goroutines-is-slower-ba99c2fadce9
 https://dgraph.io/blog/post/signal-and-wait/
 https://cloud.tencent.com/developer/article/1004467
 https://cloud.tencent.com/developer/article/1004444
+https://medium.com/techlog/latency-need-not-always-require-scaling-your-microservice-a-story-of-an-in-memory-cache-384419174ef3
