@@ -1514,3 +1514,4 @@ https://medium.com/a-journey-with-go/go-how-does-the-garbage-collector-mark-the-
 https://mp.weixin.qq.com/s?__biz=MzkzNjYxNTU3MQ==&mid=2247487177&idx=1&sn=7ac01350eb5be4088bb43b45985c269d&source=41#wechat_redirect
 https://syslog.ravelin.com/further-dangers-of-large-heaps-in-go-7a267b57d487
 https://studygolang.com/articles/33789
+https://www.freecodecamp.org/news/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192
