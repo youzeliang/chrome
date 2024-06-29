@@ -1502,3 +1502,4 @@ https://cloud.tencent.com/developer/article/1004467
 https://cloud.tencent.com/developer/article/1004444
 https://medium.com/techlog/latency-need-not-always-require-scaling-your-microservice-a-story-of-an-in-memory-cache-384419174ef3
 https://mp.weixin.qq.com/s/3gGbJaeuvx4klqcv34hmmw
+https://kasvith.me/kache/
