@@ -1495,3 +1495,5 @@ https://mp.weixin.qq.com/s/69AYucF1i6D3O-ds2Hetlw
 https://vincent.composieux.fr/article/how-does-monday-use-go-and-how-does-it-work
 https://mp.weixin.qq.com/s/S3_YEyhLcaAUuaSabXdimw
 https://cloud.tencent.com/developer/article/1004455
+https://gvisor.dev/blog/2022/10/24/buffer-pooling/
+https://blog.devgenius.io/using-goroutines-is-slower-ba99c2fadce9
