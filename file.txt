@@ -1513,3 +1513,4 @@ https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d4
 https://medium.com/a-journey-with-go/go-how-does-the-garbage-collector-mark-the-memory-72cfc12c6976
 https://mp.weixin.qq.com/s?__biz=MzkzNjYxNTU3MQ==&mid=2247487177&idx=1&sn=7ac01350eb5be4088bb43b45985c269d&source=41#wechat_redirect
 https://syslog.ravelin.com/further-dangers-of-large-heaps-in-go-7a267b57d487
+https://studygolang.com/articles/33789
