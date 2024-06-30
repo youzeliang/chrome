@@ -1,4 +1,6 @@
 import webbrowser
+import os
+
 
 def remove_str(file_name):
     """
@@ -25,5 +27,25 @@ def remove_str(file_name):
         f.truncate()
         f.writelines(new_lines)
 
+
+def deduplicate_http():
+    file_name = '/Users/youzeliang/dev/code/chrome/file.txt'
+
+    http_lines = []
+    with open(file_name, 'r', encoding='utf-8') as file:
+        for line in file:
+            if 'http' in line:
+                http_lines.append(line)
+            if '<' in line:
+                continue
+
+    unique_lines = list(set(http_lines))
+
+    with open(file_name, 'w', encoding='utf-8') as file:
+        file.writelines(unique_lines)
+
+
 if __name__ == '__main__':
-    remove_str('/Users/youzeliang/dev/code/chrome/newfile.txt')
+    # remove_str('/Users/youzeliang/dev/code/chrome/newfile.txt')
+
+    deduplicate_http()
