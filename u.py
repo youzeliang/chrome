@@ -1,9 +1,9 @@
-
 def unique(file_name):
     http_lines = []
     with open(file_name, 'r', encoding='utf-8') as file:
         for line in file:
-            http_lines.append(line)
+            if 'http' in line:
+                http_lines.append(line)
 
     unique_lines = list(set(http_lines))
 
@@ -11,7 +11,5 @@ def unique(file_name):
         file.writelines(unique_lines)
 
 
-
-
 if __name__ == '__main__':
-    unique('/Users/youzeliang/dev/code/chrome/newfile.txt')
+    unique('/Users/youzeliang/dev/code/chrome/file.txt')
