@@ -1674,3 +1674,6 @@ https://cloud.tencent.com/developer/article/2350109
 http://iyfbodn.com/?dn=wuyin.io&enc_lnk=HMvltL%2B9q2QW%2FdDusUoLqybKnOEosia3c%2F%2FwzT3y%2F8w%3D&enc_txt=Ez%2BGYmG5eae7zX4N6bCuNMX9i%2FI1yuTYt40PUkc3WkCgyY8chq4717l2y4xBB4z5gRAv0ZkyQ6JvThKCJi%2Bo72RbJwVTCvOLzIugbavGjdo%3D&pbsubid=802c3c34-e356-46d1-ab0a-6eb2057db65b&pid=9POT3387I
 https://cloud.tencent.com/developer/article/2000086
 https://juejin.cn/post/6904280087668097038
+https://www.cnblogs.com/Tassdar/p/13373289.html
+https://segmentfault.com/a/1190000013739000#item-4
+https://eddycjy.com/posts/go/go-tips-timer-memory/
