@@ -1694,3 +1694,4 @@ https://segmentfault.com/a/1190000023691973?u_atoken=b2ae57c3-6008-4c7f-8ed6-bfc
 https://link.segmentfault.com/?enc=9X2r6BASdI%2BXiRQb%2FOZ3DA%3D%3D.IYmByIQbTf8hROkb6rvKXxAWaApmTTZFpsN4XQ9ipPI%3D
 https://link.segmentfault.com/?enc=NBMvt44vpKRzWKQdDEL%2FgA%3D%3D.lxbyP5IINb2PXu2y6uoZ26r2m%2FajbUI5arYsPtC54RJs%2BPDL86F4ez1DHvJadFh0bHL5Hm12ISD0PhEaOU7nNQ%3D%3D
 https://segmentfault.com/a/1190000013468966
+https://colobu.com/2019/02/28/1m-go-tcp-connection-3/
