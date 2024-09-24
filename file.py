@@ -49,3 +49,6 @@ if __name__ == '__main__':
     # remove_str('/Users/youzeliang/dev/code/chrome/newfile.txt')
 
     deduplicate_http()
+
+    os.system('open /Users/youzeliang/dev/code/chrome/newfile.txt')
+
