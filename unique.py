@@ -82,4 +82,4 @@ def unique(file_name):
 
 
 if __name__ == '__main__':
-    deduplicate_http('/Users/youzeliang/dev/code/chrome/file.txt')
+    unique('/Users/youzeliang/dev/code/chrome/file.txt')
