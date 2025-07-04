@@ -3,10 +3,25 @@
 
 <head>
   <title>My Extension</title>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      width: 400px;
+      padding: 10px;
+    }
+    #urlList {
+      max-height: 300px;
+      overflow-y: auto;
+      margin-top: 10px;
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
+  </style>
 </head>
 
 <body>
-  <h3>My Extension</h3>
+  <h3>已保存的URL列表：</h3>
+  <div id="urlList"></div>
   <button id="checkButton">Check URL</button>
   <script src="popup.js"></script>
 </body>

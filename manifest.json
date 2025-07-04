@@ -12,11 +12,12 @@
     "service_worker": "background.js"
   },
   "commands": {
-    "sampleCommand": {
+    "save-current-url": {
       "suggested_key": {
-        "default": "Alt+A"
+        "default": "Ctrl+Shift+S",
+        "mac": "Alt+1"
       },
-      "description": "Sample Command"
+      "description": "Save current URL to storage"
     }
   },
   "icons": {
