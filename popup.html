@@ -2,12 +2,43 @@
 <html>
 
 <head>
-  <title>My Extension</title>
+  <title>URL Blocker</title>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      width: 300px;
+      padding: 10px;
+    }
+    button {
+      margin: 5px 0;
+      padding: 5px 10px;
+    }
+    #urlList {
+      margin-top: 10px;
+      max-height: 200px;
+      overflow-y: auto;
+    }
+    .input-group {
+      margin: 10px 0;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 5px;
+      margin-bottom: 5px;
+    }
+  </style>
 </head>
 
 <body>
-  <h3>My Extension</h3>
-  <button id="checkButton">Check URL</button>
+  <div class="input-group">
+    <label for="subscriptionUrl">订阅地址:</label>
+    <input type="text" id="subscriptionUrl" placeholder="输入订阅URL">
+    <button id="saveSubscription">保存订阅</button>
+  </div>
+  <button id="checkButton">检查当前URL</button>
+  <button id="refreshList">刷新订阅列表</button>
+  <div>已屏蔽的URL列表:</div>
+  <div id="urlList"></div>
   <script src="popup.js"></script>
 </body>
 
