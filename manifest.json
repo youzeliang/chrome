@@ -3,7 +3,15 @@
   "name": "Black",
   "version": "1.0",
   "description": "Check if URL is allowed",
-  "permissions": ["storage", "webNavigation", "tabs"],
+  "permissions": [
+    "storage",
+    "webNavigation",
+    "tabs",
+    "alarms"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
   "action": {
     "default_icon": "icon.png",
     "default_popup": "popup.html"
