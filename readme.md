@@ -6,9 +6,10 @@
 
 市面上的插件有个痛点，似乎大部分都没有针对于当前网址加入黑名单的快捷键 所以该项目就诞生了
 
+数据写到localstorage里
 
-后期规划
+支持快捷键将网页添加到storage里，option + 1 （mac版本）
 
-* 数据写到localstorage里
-* 不借助于alfred软件来实现
-* 同样支持快捷键和页面上点击加入
+也支持对远程的订阅链接来完成对网址的过滤
+
+订阅链接格式 https://raw.githubusercontent.com/youzeliang/chrome/master/file.txt
