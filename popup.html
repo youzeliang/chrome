@@ -35,6 +35,24 @@
     <input type="text" id="subscriptionUrl" placeholder="输入订阅URL">
     <button id="saveSubscription">保存订阅</button>
   </div>
+  <div class="input-group">
+    <label for="sync-interval">同步间隔(分钟):</label>
+    <select id="sync-interval">
+      <option value="1">1</option>
+      <option value="5">5</option>
+      <option value="10">10</option>
+      <option value="30">30</option>
+      <option value="60">60</option>
+    </select>
+    <button id="saveSyncInterval">保存间隔</button>
+  </div>
+  <!-- 新增移除网址功能 -->
+  <div class="input-group">
+    <label for="remove-url-input">移除网址:</label>
+    <input type="text" id="remove-url-input" placeholder="输入要移除的网址">
+    <button id="remove-url-btn">移除网址</button>
+    <div id="remove-url-msg" style="color: #d00; font-size: 12px;"></div>
+  </div>
   <button id="checkButton">检查当前URL</button>
   <button id="refreshList">刷新订阅列表</button>
   <div>已屏蔽的URL列表:</div>

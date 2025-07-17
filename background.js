@@ -145,3 +145,32 @@ async function checkURL(url) {
     }
   }
 }
+
+// 定时同步远程黑名单
+function setupSyncAlarm() {
+  chrome.storage.local.get('syncIntervalMinutes', ({ syncIntervalMinutes }) => {
+    const interval = Number(syncIntervalMinutes) || 10; // 默认10分钟
+    chrome.alarms.clear('syncRemoteBlockList', () => {
+      chrome.alarms.create('syncRemoteBlockList', { periodInMinutes: interval });
+    });
+  });
+}
+
+chrome.runtime.onInstalled.addListener(() => {
+  setupSyncAlarm();
+});
+
+// 扩展启动时也设置一次
+setupSyncAlarm();
+
+chrome.storage.onChanged.addListener((changes, area) => {
+  if (area === 'local' && changes.syncIntervalMinutes) {
+    setupSyncAlarm();
+  }
+});
+
+chrome.alarms.onAlarm.addListener((alarm) => {
+  if (alarm.name === 'syncRemoteBlockList') {
+    getRemoteBlockList(); // 只需刷新缓存即可
+  }
+});
