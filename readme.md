@@ -1,6 +1,6 @@
 # Black webSiteList
 
-[中文说明 (Chinese README)](./README.zh-CN.md)
+[中文说明 ()](./README.zh-CN.md)
 
 A Chrome extension to help you block unwanted websites by maintaining a blacklist. Easily add the current site to your blacklist, subscribe to remote blacklist files, and avoid revisiting time-wasting or irrelevant pages.
 
