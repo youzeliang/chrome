@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Black",
+  "name": "Black webSiteList",
   "version": "1.0",
-  "description": "Check if URL is allowed",
+  "description": "A Chrome extension to check if the current webpage is in a blacklist.",
   "permissions": [
     "storage",
     "webNavigation",
