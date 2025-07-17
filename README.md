@@ -18,7 +18,7 @@ A Chrome extension to help you block unwanted websites by maintaining a blacklis
 4. Click "Load unpacked" and select this project folder
 
 ## Usage
-- Set a remote subscription URL (e.g. a raw GitHub text file)
+- Set a remote subscription URL (e.g. a raw GitHub text file)  https://raw.githubusercontent.com/youzeliang/chrome/master/file.txt 
 - Add the current site to the blacklist using the popup or the shortcut (default: Option + 1 on Mac)
 - Remove sites from the blacklist in the popup
 - Adjust the sync interval for remote blacklist updates
